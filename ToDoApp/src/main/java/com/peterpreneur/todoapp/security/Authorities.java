@@ -1,3 +1,4 @@
+
 package com.peterpreneur.todoapp.security;
 
 import javax.persistence.Entity;
